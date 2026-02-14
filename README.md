@@ -45,11 +45,6 @@ A fully functional and responsive coffee shop landing page demonstrating practic
 
 ---
 
-## 🔗 Live Preview (Optional)
-(Add GitHub Pages link here)
-
----
-
 ## 📁 Project Structure
 - index.html  
 - style.css  
