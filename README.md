@@ -40,11 +40,6 @@ A fully functional and responsive coffee shop landing page demonstrating practic
 
 ---
 
-## 🎥 Demo Video
-(Add your YouTube or LinkedIn video link here)
-
----
-
 ## 📁 Project Structure
 - index.html  
 - style.css  
